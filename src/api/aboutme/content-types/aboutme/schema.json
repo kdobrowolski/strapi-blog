@@ -1,0 +1,19 @@
+{
+  "kind": "singleType",
+  "collectionName": "aboutmes",
+  "info": {
+    "singularName": "aboutme",
+    "pluralName": "aboutmes",
+    "displayName": "aboutme"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "content": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}

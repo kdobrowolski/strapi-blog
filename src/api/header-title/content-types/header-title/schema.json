@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "header_titles",
+  "info": {
+    "singularName": "header-title",
+    "pluralName": "header-titles",
+    "displayName": "HeaderTitle"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}
