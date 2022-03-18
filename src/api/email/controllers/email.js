@@ -1,12 +1,8 @@
 'use strict';
 
-const Strapi = require("@strapi/strapi/lib/Strapi");
-
-
 /**
  *  email controller
  */
-
 
 module.exports = {
     async get(ctx, next) {
